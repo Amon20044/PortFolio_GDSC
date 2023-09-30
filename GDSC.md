@@ -3,7 +3,7 @@
 Welcome to my video portfolio! Here, you'll find a collection of my best videos, including 2D animated cartoons and a Game Dev project overview. Click on the titles to watch the videos and view better quality images.
 
 ## 1. 2D Animated Cartoon - "Indians Vs Dogs"
-[![Thumbnail](https://i.ytimg.com/an_webp/w8Dyvqi1KLA/mqdefault_6s.webp?du=3000&sqp=CIDb36gG&rs=AOn4CLDEJELZoa61GQ37n82lOKdLbFKBZA)(https://youtu.be/EVK4XeHpms0?si=lqt7M-kxTzpdXy6w)
+[![Thumbnail][(https://i.ytimg.com/an_webp/w8Dyvqi1KLA/mqdefault_6s.webp?du=3000&sqp=CIDb36gG&rs=AOn4CLDEJELZoa61GQ37n82lOKdLbFKBZA)](https://youtu.be/EVK4XeHpms0?si=lqt7M-kxTzpdXy6w)
 
 Description: This 2D animated cartoon showcases my skills in animation and storytelling.
 
