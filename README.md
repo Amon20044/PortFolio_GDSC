@@ -34,7 +34,7 @@ This is the 2D animated cartoon I made for My Youtube.
 (Click Here to view)(https://drive.google.com/file/d/1Iuk7zNpCjMf-Z0l_bdmBGHcjlnTm9EOB/view?usp=sharing)
 
 ## 3. [Cerbro Video](link_to_video)
-[![image](https://th.bing.com/th/id/OIP.QeQsR_snvUmXetR2HdVAhAHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7)](https://drive.google.com/file/d/1xsjWnoCiHJj_9nsDDuMf6HnM3D-a_OgL/view?usp=drive_link)
+[![image](https://th.bing.com/th/id/OIP.QeQsR_snvUmXetR2HdVAhAHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7)](https://drive.google.com/file/d/1Ye8LOdOFPwQ_8VL5bJAiwqzhT6WrmntF/view?usp=sharing)
 
 ## 4. [2D Animation Video(OLD VERSION)](link_to_video)
 ![Thumbnail](https://github.com/Amon20044/PortFolio_GDSC/assets/111745899/a4b22d3d-c0d3-40ce-b485-3121bd8e31f5)
